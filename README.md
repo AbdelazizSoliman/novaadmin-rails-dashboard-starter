@@ -1,67 +1,59 @@
-🚀 NovaAdmin – Rails 7 Admin Dashboard Starter
+# 🚀 NovaAdmin – Rails 7 Admin Dashboard Starter
 
-Production-ready Rails 7 admin dashboard starter built for developers who want to launch internal tools faster.
+Production-ready Rails 7 admin dashboard starter for building internal tools fast.
 
-🖥 Preview
+---
 
+## 🖥 Preview
 
+![Dashboard](./screenshots/Novaadmin.png)
+![Invoices](./screenshots/Invoices.png)
+![Products](./screenshots/Products.png)
 
+---
 
-✨ What is NovaAdmin?
+## ✨ Tech Stack
 
-NovaAdmin is a ready-to-use admin dashboard built with:
+- Ruby on Rails 7  
+- Bootstrap 5  
+- PostgreSQL  
 
-Ruby on Rails 7
-Bootstrap 5
-PostgreSQL
+---
 
-It provides a solid foundation for:
+## 📦 Features
 
-Admin dashboards
-Internal tools
-SaaS back-office systems
-Business management apps
-📦 Included Modules
-Clients management
-Products management
-Invoices system
-Inventory tracking
-User roles & permissions
-Activity logs
-System settings
-⚡ Key Features
-Clean admin UI
-Role-based access (Pundit)
-Authentication (Devise)
-Invoice lifecycle (Draft → Issued → Paid)
-Automatic inventory deduction
-PDF export
-Audit logging
-🎯 Perfect For
-Rails developers
-Freelancers building admin panels
-Agencies
-SaaS MVP builders
-🧠 Why NovaAdmin?
+- Clients Management  
+- Products Management  
+- Invoices System  
+- Inventory Tracking  
+- User Roles & Permissions  
+- Activity Logs  
+- System Settings  
 
-Instead of building admin logic from scratch every time…
+---
 
-👉 Start with a production-ready foundation
-👉 Focus only on your business logic
+## ⚡ Why NovaAdmin?
 
-💰 Get Full Version
+👉 Start faster  
+👉 Skip boilerplate  
+👉 Focus on business logic  
 
-👉 Full source code + setup + production-ready system:
+---
+
+## 💰 Get Full Version
+
+👉 Full source code + production-ready system:
 
 🔗 https://abdelazizsoliman.gumroad.com/l/novaadmin
 
-⚠️ Note
+---
+
+## ⚠️ Note
 
 This repository is a teaser/demo only.
 
-Full version available on Gumroad.
+---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Abdelaziz Soliman
-Rails Developer
