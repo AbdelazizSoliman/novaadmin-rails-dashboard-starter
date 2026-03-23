@@ -1,59 +1,105 @@
 # 🚀 NovaAdmin – Rails 7 Admin Dashboard Starter
 
-Production-ready Rails 7 admin dashboard starter for building internal tools fast.
+Stop rebuilding admin panels from scratch.
+NovaAdmin gives you a **production-ready Rails 7 admin dashboard** to launch internal tools faster.
 
 ---
 
-## 🖥 Preview
+## 🔥 Live Demo
 
-![Dashboard](./screenshots/Novaadmin.png)
-![Invoices](./screenshots/Invoices.png)
-![Products](./screenshots/Products.png)
-
----
-
-## ✨ Tech Stack
-
-- Ruby on Rails 7  
-- Bootstrap 5  
-- PostgreSQL  
-
----
-
-## 📦 Features
-
-- Clients Management  
-- Products Management  
-- Invoices System  
-- Inventory Tracking  
-- User Roles & Permissions  
-- Activity Logs  
-- System Settings  
-
----
-
-## ⚡ Why NovaAdmin?
-
-👉 Start faster  
-👉 Skip boilerplate  
-👉 Focus on business logic  
+👉 https://rails-business-admin-starter.onrender.com
 
 ---
 
 ## 💰 Get Full Version
 
-👉 Full source code + production-ready system:
-
-🔗 https://abdelazizsoliman.gumroad.com/l/novaadmin
+👉 https://abdelazizsoliman.gumroad.com/l/novaadmin
 
 ---
 
-## ⚠️ Note
+## ✨ Tech Stack
 
-This repository is a teaser/demo only.
+* Ruby on Rails 7
+* Bootstrap 5
+* PostgreSQL
+
+---
+
+## 📦 Core Modules
+
+* 👤 User Management & Role-based Access (Pundit)
+* 🧾 Invoice Management (Draft → Issued → Paid)
+* 📦 Product Management & Inventory Tracking
+* 🏢 Client Management
+* 📊 Dashboard Metrics
+* 📜 Activity Logs (Audit system)
+* ⚙️ System Settings
+
+---
+
+## ⚡ Key Features
+
+* Clean, scalable admin architecture
+* Inventory auto deduction on invoice payment
+* PDF invoice export
+* Full audit logging for all actions
+* Archive / Restore logic
+* Ready for production customization
+
+---
+
+## 🖼️ Screenshots
+
+### Dashboard
+
+![Dashboard](screenshots/Novaadmin.png)
+
+### Invoices
+
+![Invoices](screenshots/Invoices.png)
+
+### Products
+
+![Products](screenshots/Products.png)
+
+---
+
+## 🎯 Who is this for?
+
+* Rails developers
+* Freelancers
+* Agencies
+* SaaS MVP builders
+
+---
+
+## 🚀 Why NovaAdmin?
+
+Instead of spending days building admin basics:
+
+👉 Start with a ready-made system
+👉 Focus on business logic
+👉 Deliver faster
+
+---
+
+## 🧪 Demo Credentials
+
+[admin@example.com](mailto:admin@example.com)
+password123
+
+---
+
+## ⚠️ Important
+
+This repository is a **teaser/demo version only**.
+
+👉 Full version available here:
+https://abdelazizsoliman.gumroad.com/l/novaadmin
 
 ---
 
 ## 👨‍💻 Author
 
 Abdelaziz Soliman
+Rails Developer focused on production-ready systems
