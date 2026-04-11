@@ -52,11 +52,11 @@ NovaAdmin gives you a **production-ready Rails 7 admin dashboard** to launch int
 
 ### Dashboard
 
-![Dashboard](screenshots/Novaadmin.png)
+![Dashboard](screenshots/dashboard.png)
 
 ### Invoices
 
-![Invoices](screenshots/Invoices.png)
+![Invoices](screenshots/invoices.png)
 
 ### Products
 
