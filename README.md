@@ -4,6 +4,9 @@ Stop rebuilding admin panels from scratch.
 
 Rails Admin Business Starter is a **production-ready Rails 7 system** that helps you launch internal tools, admin dashboards, and SaaS back offices in minutes.
 
+👉 Full version ($19):  
+https://abdelaziz.lemonsqueezy.com/checkout/buy/9bdb91ad-35d3-4b21-98c1-aee6b37dc75f
+
 ---
 
 ## 🔥 Live Demo
@@ -12,16 +15,10 @@ Rails Admin Business Starter is a **production-ready Rails 7 system** that helps
 
 ---
 
-## 💰 Get Full Version
-
-👉 https://abdelaziz.lemonsqueezy.com/checkout/buy/9bdb91ad-35d3-4b21-98c1-aee6b37dc75f
-
----
-
 ## ⚡ What You Get
 
 ✔ Complete Rails 7 codebase  
-✔ Authentication + Role-based access (Pundit)  
+✔ Authentication + Role-based access (Devise + Pundit)  
 ✔ Invoicing system (Draft → Issued → Paid)  
 ✔ Product & Inventory management  
 ✔ Client management  
@@ -33,19 +30,19 @@ Rails Admin Business Starter is a **production-ready Rails 7 system** that helps
 
 ## ✨ Tech Stack
 
-* Ruby on Rails 7
-* PostgreSQL
-* Bootstrap 5
+- Ruby on Rails 7  
+- PostgreSQL  
+- Bootstrap 5  
 
 ---
 
 ## 🧾 Key Features
 
-* Inventory auto deduction on invoice payment  
-* PDF invoice export  
-* Full audit logging for all actions  
-* Archive / Restore logic  
-* Production-ready structure for scaling  
+- Inventory auto deduction on invoice payment  
+- PDF invoice export  
+- Full audit logging for all actions  
+- Archive / Restore logic  
+- Production-ready structure for scaling  
 
 ---
 
@@ -58,16 +55,16 @@ Rails Admin Business Starter is a **production-ready Rails 7 system** that helps
 ![Invoices](screenshots/invoices.png)
 
 ### Products
-![Products](screenshots/Products.png)
+![Products](screenshots/products.png)
 
 ---
 
 ## 🎯 Who is this for?
 
-* Rails developers building admin systems  
-* Freelancers delivering client dashboards  
-* Agencies building internal tools  
-* SaaS founders building MVPs  
+- Rails developers building admin systems  
+- Freelancers delivering client dashboards  
+- Agencies building internal tools  
+- SaaS founders building MVPs  
 
 ---
 
@@ -75,10 +72,10 @@ Rails Admin Business Starter is a **production-ready Rails 7 system** that helps
 
 Most developers waste days rebuilding:
 
-❌ Auth  
-❌ Roles  
-❌ CRUD  
-❌ Invoices  
+❌ Authentication  
+❌ Roles & permissions  
+❌ CRUD logic  
+❌ Invoicing systems  
 ❌ Admin UI  
 
 👉 This starter gives you everything ready so you can focus on your actual product.
@@ -96,7 +93,7 @@ password123
 
 This repository is a **demo version only**.
 
-👉 Full version (with complete features & source code):  
+👉 Get the full version here:  
 https://abdelaziz.lemonsqueezy.com/checkout/buy/9bdb91ad-35d3-4b21-98c1-aee6b37dc75f
 
 ---
