@@ -58,7 +58,7 @@ Rails Admin Business Starter is a **production-ready Rails 7 system** that helps
 ![Invoices](screenshots/invoices.png)
 
 ### Products
-![Products](screenshots/products.png)
+![Products](screenshots/Products.png)
 
 ---
 
